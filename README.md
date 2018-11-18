@@ -12,6 +12,6 @@ https://my.oschina.net/wangsifangyuan/blog/1575004
 https://www.jianshu.com/p/e22866b72f43  
 ## 5.将系统自带的python3从python3.5升级到python3.6  
 https://blog.csdn.net/u011254180/article/details/80905055  
-## 6.在局域网内设置静态IP，方便远程连接
+## 6.在以太网内设置静态IP，方便远程连接
 https://www.jianshu.com/p/ea4bca38e5d7  
 其中的网卡名称，地址，网关，掩码和广播都根据自己的来写，完成后重启系统
