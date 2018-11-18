@@ -6,7 +6,7 @@ https://blog.csdn.net/tianrolin/article/details/52830422
 ## 2.安装显卡驱动出现循环登录问题    
 https://blog.csdn.net/ssmixi/article/details/73483795  
 ## 3.安装CUDA  
-安装nvidia官网上的步骤来，开始之前一定要进入文本模式，并禁用图形界面，使用命令`sudo service lightdm stop`，安装成功后重新图形界面`sudo service lightdm start`  
+安装nvidia官网上的步骤来，开始之前一定要进入文本模式，并禁用图形界面，使用命令`sudo service lightdm stop`，安装成功后重启图形界面`sudo service lightdm start`  
 https://my.oschina.net/wangsifangyuan/blog/1575004  
 ## 4.安装cuDNN  
 https://www.jianshu.com/p/e22866b72f43  
