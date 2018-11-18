@@ -1,7 +1,7 @@
 # ubuntu16.04-helpful-blogs
 从开始配置一个服务器，对于新手来说， 会遇到一系列的问题，当我们上网百度或者谷歌搜索问题时，一般会找到非常多的博客，所以会无从下手，我们希望能筛选出最有用博客，我把我平时使用并解决问题的一些博客总结下来，希望对大家有用
-1.安装NVIDIA显卡驱动
 ----------
+1.安装NVIDIA显卡驱动
 https://www.jianshu.com/p/b313625fbe61
 https://blog.csdn.net/tianrolin/article/details/52830422
 2.安装显卡驱动出现循环登录问题
