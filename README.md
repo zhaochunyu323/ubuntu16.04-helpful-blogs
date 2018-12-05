@@ -18,4 +18,7 @@ https://www.jianshu.com/p/ea4bca38e5d7
 ## 7.让两台服务器共享文件夹
 https://blog.csdn.net/yulijun2201/article/details/81873489  
 可以把其中的ip地址改为\*，这样就可以使所有地址都可以连接，被共享的服务器中的文件夹要放在根目录下，就是以下博客说的内容  
-https://blog.csdn.net/weixin_38663832/article/details/79796257
+https://blog.csdn.net/weixin_38663832/article/details/79796257  
+## 8.安装pygraphviz  
+目前pygraphviz好像只支持python2.7，如果python3.6可以安装pydotplus  
+https://blog.csdn.net/romantickai/article/details/82222579  
