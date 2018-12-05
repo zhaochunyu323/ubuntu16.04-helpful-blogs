@@ -3,6 +3,3 @@
 ```shell
 apt-get install python3.6-dev
 ```
-```python
-import tensorflow
-```
