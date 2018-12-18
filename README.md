@@ -10,4 +10,4 @@
 [Python库](./library.md)  
 ***************************
 ## Pytorch和Tensorflow运行过程中的一些错误  
-[Deep_Learning_errors](./Deep Learning errors.md)  
+[Deep Learning errors](./Deep_Learning_errors.md)  
