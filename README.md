@@ -7,4 +7,7 @@
 [安装错误](./Errors.md)  
 ***************************
 ## Python库
-[Python库](./library.md)
+[Python库](./library.md)  
+***************************
+## Pytorch和Tensorflow运行过程中的一些错误  
+[Deep Learning errors]
