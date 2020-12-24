@@ -19,3 +19,5 @@ https://www.jianshu.com/p/ea4bca38e5d7
 https://blog.csdn.net/yulijun2201/article/details/81873489  
 可以把其中的ip地址改为\*，这样就可以使所有地址都可以连接，被共享的服务器中的文件夹要放在根目录下，就是以下博客说的内容  
 https://blog.csdn.net/weixin_38663832/article/details/79796257  
+## 8.将python3的版本从3.5升级到3.6
+https://blog.51cto.com/14900374/2523671
