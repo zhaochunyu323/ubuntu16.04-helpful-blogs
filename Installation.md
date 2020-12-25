@@ -12,7 +12,7 @@ https://my.oschina.net/wangsifangyuan/blog/1575004
 https://www.jianshu.com/p/e22866b72f43  
 ## 5.将系统自带的python3从python3.5升级到python3.6  
 https://blog.51cto.com/14900374/2523671  
-此时可能会出现用快捷键打不开终端的问题，以下文章中有两个解决方案
+此时可能会出现用快捷键打不开终端的问题，以下文章中有两个解决方案  
 https://blog.csdn.net/u011254180/article/details/80905055  
 ## 6.在以太网内设置静态IP，方便远程连接
 https://www.jianshu.com/p/ea4bca38e5d7  
